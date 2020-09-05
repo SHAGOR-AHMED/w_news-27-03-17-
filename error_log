@@ -1,0 +1,19 @@
+[28-Feb-2017 11:25:29 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '$point' (T_VARIABLE) in /home/worldnews365/public_html/application/models/Common_model.php on line 80
+[28-Feb-2017 11:25:37 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '$point' (T_VARIABLE) in /home/worldnews365/public_html/application/models/Common_model.php on line 80
+[01-Mar-2017 11:01:35 Asia/Dhaka] PHP Fatal error:  Call to undefined function numFormat() in /home/worldnews365/public_html/application/views/frontend/earning_report.php on line 20
+[01-Mar-2017 11:01:48 Asia/Dhaka] PHP Fatal error:  Call to undefined function numFormat() in /home/worldnews365/public_html/application/views/frontend/earning_report.php on line 20
+[01-Mar-2017 11:01:54 Asia/Dhaka] PHP Fatal error:  Call to undefined function numFormat() in /home/worldnews365/public_html/application/views/frontend/earning_report.php on line 20
+[01-Mar-2017 11:41:28 Asia/Dhaka] PHP Fatal error:  Call to undefined function numFormat() in /home/worldnews365/public_html/application/views/frontend/earning_report.php on line 20
+[01-Mar-2017 15:34:04 Asia/Dhaka] PHP Fatal error:  Call to undefined function numFormat() in /home/worldnews365/public_html/application/views/frontend/earning_report.php on line 20
+[01-Mar-2017 15:34:52 Asia/Dhaka] PHP Fatal error:  Call to undefined function numFormat() in /home/worldnews365/public_html/application/views/frontend/earning_report.php on line 20
+[01-Mar-2017 15:35:15 Asia/Dhaka] PHP Fatal error:  Call to undefined function numFormat() in /home/worldnews365/public_html/application/views/frontend/earning_report.php on line 20
+[01-Mar-2017 15:35:49 Asia/Dhaka] PHP Fatal error:  Call to undefined function numFormat() in /home/worldnews365/public_html/application/views/frontend/earning_report.php on line 20
+[01-Mar-2017 15:40:29 Asia/Dhaka] PHP Fatal error:  Call to undefined function numFormat() in /home/worldnews365/public_html/application/views/frontend/earning_report.php on line 20
+[04-Mar-2017 02:40:37 Asia/Dhaka] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::wher() in /home/worldnews365/public_html/application/controllers/Control_panel.php on line 334
+[05-Mar-2017 02:53:21 Asia/Dhaka] PHP Fatal error:  Call to undefined method User_model::getTnsInfo() in /home/worldnews365/public_html/application/controllers/User.php on line 734
+[26-Mar-2017 00:58:35 Asia/Dhaka] PHP Fatal error:  Call to a member function encode() on null in /home/worldnews365/public_html/application/controllers/Home.php on line 84
+[26-Mar-2017 00:58:58 Asia/Dhaka] PHP Fatal error:  Call to a member function encode() on null in /home/worldnews365/public_html/application/controllers/Home.php on line 84
+[26-Mar-2017 00:59:05 Asia/Dhaka] PHP Fatal error:  Call to a member function encode() on null in /home/worldnews365/public_html/application/controllers/Home.php on line 84
+[26-Mar-2017 01:26:21 Asia/Dhaka] PHP Fatal error:  Call to a member function checkUserId() on null in /home/worldnews365/public_html/application/controllers/Home.php on line 98
+[26-Mar-2017 01:27:00 Asia/Dhaka] PHP Fatal error:  Call to undefined method Common_model::checkUserId() in /home/worldnews365/public_html/application/controllers/Home.php on line 99
+[26-Mar-2017 01:27:37 Asia/Dhaka] PHP Fatal error:  Call to undefined method Common_model::checkUserId() in /home/worldnews365/public_html/application/controllers/Home.php on line 99
